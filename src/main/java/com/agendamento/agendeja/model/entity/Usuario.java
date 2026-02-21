@@ -8,9 +8,8 @@ public class Usuario {
     private String email;
     private String senha;
     private String endeco;
-    private String area_atuacao;
-    private String cnpj;
     private String cidade;
     private String estado;
-
+    private String tipoUsuario;
+    private boolean codstatus;
 }
